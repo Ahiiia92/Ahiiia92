@@ -9,7 +9,9 @@
 
   - 🔭 I’m currently working at **Mercedes-Benz Tech Innovation**
 
-  - 🌱 I’m currently learning **Cloud Engineer Linux Foundation**
+  - 🌱 I’m currently learning **Cloud Engineer Linux Foundation**, **GraphQL**.
+  
+  - 💡 Interested in Web3.0
 
   - 👨‍💻 All of my projects are available at [https://www.maroussiaarnault.com/](https://www.maroussiaarnault.com/)
 
