@@ -11,7 +11,7 @@
 
   - 🌱 I’m currently learning **Cloud Engineering**, **Rust** and **Solidity**.
   
-  - 💡 Interested in **Web3.0**
+  - 💡 Interested in blockchain technology beyond cryptocurrencies, healthcare and social-businesses.
 
   - 👨‍💻 All of my projects are available at [https://www.maroussiaarnault.com/](https://www.maroussiaarnault.com/)
 
