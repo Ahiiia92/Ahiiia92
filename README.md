@@ -9,9 +9,9 @@
 
   - 🔭 I’m currently working at **Mercedes-Benz Tech Innovation**
 
-  - 🌱 I’m currently learning **Cloud Engineering**, **Rust** and **Solidity**.
+  - 🌱 I’m currently learning **Kotlin**, **Rust** and **Solidity**.
   
-  - 💡 Interested in blockchain technology beyond cryptocurrencies, healthcare and social-businesses.
+  - 💡 Interested in blockchain technology beyond cryptocurrencies, security, healthcare and social-businesses.
 
   - 👨‍💻 All of my projects are available at [https://www.maroussiaarnault.com/](https://www.maroussiaarnault.com/)
 
