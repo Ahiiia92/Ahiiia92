@@ -9,9 +9,9 @@
 
   - 🔭 I’m currently working at **Mercedes-Benz Tech Innovation**
 
-  - 🌱 I’m currently learning **Rust** and **Solidity**.
+  - 🌱 I’m currently learning **Rust** and how to build AI Agent.
   
-  - 💡 Interested in blockchain technology beyond cryptocurrencies. Security, Smart-city, Green energy and social-businesses.
+  - 💡 Interested in blockchain technology beyond cryptocurrencies. Security, Smart-city, Green energy and FinTech.
 
   - 📄 Know about my experiences: <a href="https://linkedin.com/in/maroussiaarnault/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maroussiaarnault/" height="20" width="30" /></a>
       
